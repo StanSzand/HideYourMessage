@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HideYourMessage</string>
+    <string name="key">Key</string>
+    <string name="message">Enter your message</string>
+    <string name="encmessage">Your encrypted / decrypted message will appear here.</string>
+    <string name="descE">Encrypter</string>
+    <string name="descD">Encrypter</string>
+    <string name="enterMessage">"Please enter a message to encrypt"</string>
+</resources>
